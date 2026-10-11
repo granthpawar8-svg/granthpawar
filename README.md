@@ -1,5 +1,3 @@
-<img src="https://github.com/johndoe.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
 # Granth pawar
 ### # Granth Pawar | AI Developer & Software Engineer
 
@@ -41,10 +39,10 @@ I welcome opportunities to connect with technology professionals, developers, AI
 🛠️ **Tech Stack**
 - Advanced: `React` `TypeScript` `Node.js`
 - Intermediate: `Docker`
+- Beginner: `## Technical Skills  * **Programming Languages:** Python * **AI & Machine Learning:** Machine Learning Fundamentals, AI Applications * **GUI Development:** Tkinter, CustomTkinter * **Tools & Platforms:** Git, GitHub, Visual Studio Code * **Operating Systems:** Linux, Windows * **Core Interests:** AI Agents, Intelligent Automation, Software Engineering, Operating System Development  ## Currently Learning  * Advanced Python and Object-Oriented Programming * Data Structures and Algorithms * Machine Learning and AI Integration * REST APIs and Database Management * Software Testing, Debugging, and Deployment` `Advanced × Docker Intermediate × ## Technical Skills * **Programming Languages:** Python * **AI & Machine Learning:** Machine Learning Fundamentals, AI Applications * **GUI Development:** Tkinter, CustomTkinter * **Tools & Platforms:** Git, GitHub, Visual Studio Code * **Operating Systems:** Linux, Windows * **Core Interests:** AI Agents, Intelligent Automation, Software Engineering, Operating System Development ## Currently Learning * Advanced Python and Object-Oriented Programming * Data Structures and Algorithms * Machine Learning and AI Integration * REST APIs and Database Management * Software Testing, Debugging, and Deployment`
 
 🔭 **Featured Projects**
-- [Project Alpha](https://github.com/johndoe/project-alpha) - A revolutionary app built with React and Node.js
-- [Project Beta](https://github.com/johndoe/project-beta) - High-performance backend system using Go
+- [1. Project Name: NESSA — AI Assistant  2. Project Name: MachineGuard AI  3. Project Name: GranthOS](https://github.com/YOUR-USERNAME/NESSA) - ### 1. Project Name: NESSA — AI Assistant  **Description:** A Python-based personal AI assistant project focused on intelligent interaction, task automation, and building an extensible desktop assistant.  `  ### 2. Project Name: MachineGuard AI  **Description:** An AI-powered predictive maintenance project designed to explore equipment monitoring, fystailure prediction, and data-driven maintenance solutions.  **Description:** An operating system development project exploring operating system architecture, system-level concepts, and computer sems.
 
 📊 **GitHub Stats**
 <p align="center">
